@@ -42,7 +42,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://dl.videas.fr/v-medias/s3/a/f1/89/f18923df95714fb0a2a24f5334366975/ae1fa0aaacb94017bb25eb0a1b859c1c/e08acce1-ad80-48f3-b472-a3dc1eac6488.mp4?fileName=episode-7mp4-480p.mp4",
           label: "480p"
         },
         {
