@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "",
+            "https://dl.videas.fr/v-medias/s3/uploaded/%C3%A9pisode_7.mp4?fileName=episode-7mp4-source.mp4",
           label: "1080p",
           default: true
         },
